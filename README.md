@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Casey Ellis</h1>
+<h1 align="center">Hi, I'm Casey Ellis</h1>
 <h3 align="center">A passionate full stack developer in Western New York</h3>
 
 - 🔭 I’m currently working on [Crimper Hair Studio](https://tranquil-shortbread-6b7910.netlify.app/)
