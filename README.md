@@ -1,14 +1,3 @@
-<h1 align="center">Hi, I'm Casey Ellis</h1>
-<h3 align="center">A passionate full stack developer in Western New York</h3>
-
-- 🔭 I’m currently working on [Crimper Hair Studio](https://tranquil-shortbread-6b7910.netlify.app/)
-
-- 🌱 I’m currently learning **node.js**
-
-- 👨‍💻 All of my projects are available at [https://inquisitive-truffle-6f9454.netlify.app/](https://inquisitive-truffle-6f9454.netlify.app/)
-
-- 📫 How to reach me **cwellis2016@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/quaysea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quaysea" height="30" width="40" /></a>
